@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Verma</h1>
-<h3 align="center">**Passionate & Talented Web Developer | MERN Enthusiast | AI Explorer** I’m an eager learner and builder who loves turning ideas into impactful digital solutions. From **individual innovations** to **team collaborations**, I thrive on creating meaningful projects that combine logic, creativity, and technology. 🔍 I also **love debugging** and take pride in being **skilled at fixing and optimizing code** to make it clean, efficient, and reliable.</h3>
+<h3 align="center">**Passionate Web Developer | MERN & AI Enthusiast. I love turning ideas into impactful projects, collaborating with teams, and debugging code to make it clean, efficient, and reliable..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaverma810&label=Profile%20views&color=0e75b6&style=flat" alt="adityaverma810" /> </p>
 
