@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Shrinkly](https://github.com/AdityaVerma810/Shrinkly)
+- 🔭 I’m currently working on [Chattrix](https://github.com/AdityaVerma810/Chattrix-)
 
 - 🌱 I’m currently learning **NextJs, TypeScript**
 
