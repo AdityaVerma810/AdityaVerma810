@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [PeerSync AI](https://github.com/AdityaVerma810/PeerSync-AI)
+- 🔭 I’m currently working on [PeerSync AI](https://github.com/AdityaVerma810/PeerSync-AI).
 
-- 🌱 I’m currently learning **NextJs, TypeScript**
+
+
+- 🌱 I’m currently learning **NextJs, TypeScript, AWS, Docker,CI/CD, Agentic Systems, Intelligent Automation**
 
 - 👯 I’m looking to collaborate on [Code Inspect](https://github.com/AdityaVerma810/Code-Inspect)
 
